@@ -1,0 +1,13 @@
+{
+  "name": "simple-web-server",
+  "version": "1.0.0",
+  "description": "simple web server",
+  "main": "index.js",
+  "repository": "https://github.com/aruncs/simple-web-server.git",
+  "author": "Arun C S",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
